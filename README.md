@@ -1,4 +1,4 @@
-Node Version
+NodeJS Version
 	```
         v6.9.4
     ```
